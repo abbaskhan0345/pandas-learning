@@ -50,7 +50,7 @@ pandas-learning/
 │   ├── 09-missing-data.ipynb
 │   ├── 10-statistics.ipynb
 │   ├── 11-visualization.ipynb
-|   │── data/
+|   │── mini_project/
 │      └── sales_data.csv   # Sample dataset for the mini project
 │      └── mini_project_sales_analysis.ipynb
 │
