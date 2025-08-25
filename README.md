@@ -64,6 +64,7 @@ pandas-learning/
 │
 │── requirements.txt
 │── README.md
+│── LICENSE
 ```
 
 ---
@@ -71,13 +72,21 @@ pandas-learning/
 ## 🏗 Learning Roadmap
 
 ✔ **Basics** – Introduction, Series, DataFrames
+
 ✔ **Indexing & Selection** – Accessing and filtering data
+
 ✔ **Operations** – Arithmetic, functions, and transformations
+
 ✔ **GroupBy** – Aggregation and grouping
+
 ✔ **Merging & Joining** – Combining datasets
+
 ✔ **Time-Series** – Working with date and time
+
 ✔ **Handling Missing Data** – Cleaning datasets
+
 ✔ **Statistics & Visualization** – Data insights and plots
+
 ✔ **Mini Project** – Sales Data Analysis
 
 ---
